@@ -1,0 +1,30 @@
+.form {
+    margin:auto;
+/*    align-self: center;*/
+    width: fit-content;
+    padding: 20px;
+    background-color: RGB(248, 246, 247);
+}
+
+.username{
+    background-color: RGB(217, 217, 217);
+    border:solid 1px RGB(192, 192, 192);
+    border-radius: 3px;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 250px;
+}
+.login {
+    background-color: RGB(248, 106, 30);
+    color: white;
+    height: 35px;
+    width: 45%;
+    border-radius: 3px;
+}
+.register {
+    background-color: RGB(83, 83, 83);
+    color: white;
+    height: 35px;
+    width: 45%;
+    border-radius: 3px;
+}
